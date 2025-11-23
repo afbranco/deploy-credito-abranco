@@ -58,8 +58,7 @@ Este sistema utiliza **Machine Learning** para analisar automaticamente pedidos 
 ├── 📄 app.py                 # Aplicação principal Streamlit
 ├── 🤖 modelo_credito.pkl     # Modelo ML treinado (Random Forest)
 ├── 📋 requirements.txt       # Dependências do projeto
-├── 📖 README.md             # Este arquivo
-└── 🔧 criar_modelo.py       # Script para gerar o modelo (opcional)
+└── 📖 README.md             # Este arquivo
 ```
 
 ## 🚀 Como Executar Localmente
@@ -121,7 +120,7 @@ http://localhost:8501
 
 Este projeto está configurado para deploy automático:
 
-1. **Fork** este repositório
+1. **Crie seu repositório** com base neste repositório
 2. Acesse [share.streamlit.io](https://share.streamlit.io)
 3. Conecte sua conta GitHub
 4. Selecione este repositório
@@ -133,7 +132,7 @@ A aplicação será atualizada automaticamente a cada push no GitHub.
 ## 📚 Contexto Acadêmico
 
 ### **Disciplina:** Introdução à Ciência de Dados
-### **Aula:** 24 - Deploy de Modelos de Machine Learning  
+### **Aula:** 29 - Deploy de Modelos de Machine Learning  
 ### **Professor:** Adriano Branco
 ### **Objetivo:** Demonstrar deploy prático de modelos ML na web
 
@@ -158,20 +157,6 @@ A aplicação será atualizada automaticamente a cada push no GitHub.
 - Adicionar validações de compliance bancário
 - Testes A/B para validação de melhorias
 
-## 🤝 Como Contribuir
-
-1. **Fork** o projeto
-2. Crie uma **branch** para sua feature (`git checkout -b feature/nova-funcionalidade`)
-3. **Commit** suas mudanças (`git commit -m 'Adiciona nova funcionalidade'`)
-4. **Push** para a branch (`git push origin feature/nova-funcionalidade`)
-5. Abra um **Pull Request**
-
-## 📞 Contato
-
-**👨‍💻 Desenvolvedor:** Seu Nome  
-**📧 Email:** seu.email@exemplo.com  
-**🎓 Curso:** Ciência da Computação  
-**🏫 Instituição:** Nome da Universidade
 
 ---
 
@@ -183,7 +168,7 @@ Este projeto é desenvolvido para fins acadêmicos como parte da disciplina **In
 
 <div align="center">
 
-**🚀 Feito com ❤️ usando Streamlit e Machine Learning**
+**🚀 Feito usando Streamlit e Machine Learning**
 
 [![Streamlit Cloud](https://img.shields.io/badge/Deploy-Streamlit%20Cloud-FF4B4B?style=for-the-badge)](https://streamlit.io/cloud)
 
@@ -201,11 +186,4 @@ Este projeto é desenvolvido para fins acadêmicos como parte da disciplina **In
 - [Plotly Python](https://plotly.com/python/)
 
 ### **🎓 Material da Disciplina**
-- [Notebook Original - Aula 24](link-para-notebook)
-- [Slides da Apresentação](link-para-slides)
-- [Outros Projetos da Turma](link-para-projetos)
-
-### **🔗 Links Úteis**
-- [Como melhorar seu Score de Crédito](https://exemplo.com)
-- [Guia de Análise de Crédito](https://exemplo.com)
-- [Regulamentações Bancárias](https://exemplo.com)
+- [Notebook Original - Aula 29 (Parte 1 e 2)]
