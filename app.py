@@ -8,7 +8,7 @@ from plotly.subplots import make_subplots
 
 # Configuração da página
 st.set_page_config(
-    page_title="Sistema Inteligente de Crédito - By Adriano Branco"
+    page_title="Sistema Inteligente de Crédito - By Adriano Branco",
     page_icon="💳",
     layout="wide",
     initial_sidebar_state="expanded"
